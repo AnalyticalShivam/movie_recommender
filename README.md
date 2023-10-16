@@ -25,7 +25,7 @@ To install this project, you need to have Python 3 and the following libraries:
 You can install the libraries using pip:
 
 ```bash
-pip install pandas numpy scikit-learn flask
+pip install pandas numpy scikit-learn
 ```
 ## Live URL
 - https://movierecommender-xgb42pkwnhewiegmejkxpc.streamlit.app/
