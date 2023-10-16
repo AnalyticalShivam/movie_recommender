@@ -3,6 +3,10 @@
 
 This project is a movie recommender system that suggests movies to users based on the similarity of their features.
 
+## image
+![image](https://github.com/AnalyticalShivam/movie_recommender/assets/93965065/da22a6e7-76d9-4125-a6f9-4c28efef9fe0)
+
+
 ## Features
 
 - The system uses a cosine similarity metric to measure the similarity between movies based on their features.
