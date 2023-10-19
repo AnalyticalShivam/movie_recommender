@@ -4,11 +4,11 @@
 This project is a movie recommender system that suggests movies to users based on the similarity of their features.
 
 ## Table of content 
--[Introduction](introduction)
--[image](image)
--[Freatures](features)
--[Installation](installation)
--[LiveURL](liveurl)
+-[Introduction](#introduction)
+-[image](#image)
+-[Freatures](#features)
+-[Installation](#installation)
+-[LiveURL](#liveurl)
 
 ## image
 ![image](https://github.com/AnalyticalShivam/movie_recommender/assets/93965065/da22a6e7-76d9-4125-a6f9-4c28efef9fe0)
