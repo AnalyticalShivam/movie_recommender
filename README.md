@@ -35,5 +35,5 @@ You can install the libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn
 ```
-## Live URL
+## LiveURL
 - https://movierecommender-xgb42pkwnhewiegmejkxpc.streamlit.app/
