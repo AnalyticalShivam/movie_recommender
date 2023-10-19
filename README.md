@@ -3,7 +3,8 @@
 
 This project is a movie recommender system that suggests movies to users based on the similarity of their features.
 
-## Table of content 
+## Table of content
+ 
 -[Introduction](#introduction)
 -[image](#image)
 -[Freatures](#features)
